@@ -1,6 +1,9 @@
 Java 17 Masterclass: Start Coding in 2024
+
 exercise 3
+
 Barking Dog
+
 We have a dog that likes to bark.  We need to wake up if the dog is barking at night!
 
 Write a method shouldWakeUp that has 2 parameters.
